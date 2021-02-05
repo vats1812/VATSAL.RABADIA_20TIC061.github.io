@@ -1,0 +1,22 @@
+So the descirption about my website is as follows:
+
+
+
+--> Languages used are HTML and CSS only.
+--> for fonts google fonts is used.
+--> for icons awesome icons are used.
+here is the link: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+--> contact form made from google forms.
+--> websites reffered for work:
+1. https://hacknuthon.csinirmauni.org/
+2. http://csi-india.org.in/root.aspx
+
+--> Code Snipets/Template References:
+for font: googlefonts.com
+for animation: https://ianlunn.github.io/Hover/
+others are from my own website
+
+-->refrences to all images:
+1. https://technology.nirmauni.ac.in/student_work/csi/
+2. https://www.facebook.com/ComputerSocietyOfIndiacsiNirmaUniversityChapter/
+3. http://www.findglocal.com/IN/Ahmedabad/164660013619858/Computer-Society-Of-India%2C-Student-Chapter%2C-Nirma-University
